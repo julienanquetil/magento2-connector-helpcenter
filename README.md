@@ -1,5 +1,5 @@
 # Akeneo connector for Magento 2 help center
-This repository holds the sources of the Akeneo connector for Mangeto 2 help center, made by hand with love.
+This repository holds the sources of the Akeneo connector for Magento 2 help center, made by hand with love.
 
 **Install/preview the help center**
 
