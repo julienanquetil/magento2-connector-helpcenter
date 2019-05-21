@@ -1,0 +1,17 @@
+{
+    "title":"Setting up the cartridge",
+    "description":"You don't know how to install and configure the cartridge?  Don't worry, you've come to the right place!",
+    "img":"illus-setting-up.svg",
+    "themes":{
+        "cartridge-installation":{
+            "title": "Cartridge installation",
+            "img": "illus-coding-around.svg",
+            "description": "Ready to start? Ok... but how to download and install the cartridge?"
+        },
+        "cartridge-configuration":{
+            "title": "Configure the cartridge",
+            "img": "illus-settings.svg",
+            "description": "Are your cartridge jobs visible in SFCC now? So, you are ready to configure your cartridge!"
+        }
+    }
+}
